@@ -10,6 +10,6 @@ public class MathematicalOperations {
     int addedResult = a + b;
     int multiplicationResult = a * b;
     int modulusResult = a % b;
-    i++; //here we are incrementing i i.e we are adding 1 to it
-    j--; //here we are decrementing j i.e we are removing  or subtracting 1 from it
+//    i++; //here we are incrementing i i.e we are adding 1 to it
+//    j--; //here we are decrementing j i.e we are removing  or subtracting 1 from it
 }
